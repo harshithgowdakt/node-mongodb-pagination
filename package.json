@@ -9,7 +9,7 @@
   "author": "harshith gowda",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
-    "mongodb": "^4.1.1"
+    "express": "^4.13.4",
+    "mongodb": "^3.1.1"
   }
 }
